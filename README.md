@@ -4,4 +4,5 @@
 Me chamo Eric!
 </p>
 <p align='center'>Sou estudante de Engenharia Física apaixonado por programação!</p>
+<p align='center'>😎</p>
 <h1 align='center'><i>Tenha uma boa busca!</i></h1>
