@@ -3,7 +3,7 @@
 <h2 align='center'>Me chamo Eric, sou estudante apaixonado em</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81690594/130866342-a6c14dca-2a35-4a56-a5d9-6bdf041f5f5a.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/81690594/130866404-40fc1d56-275a-40c5-a2a1-f184531bcf8d.gif" alt="animated" />
 </p>
 
 <p align='center'>Estudante de Engenharia Física, adoro doces, sou tímido porém dou meu melhor na socialização</p>
