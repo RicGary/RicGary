@@ -3,7 +3,7 @@
 ![Jujutsu](https://user-images.githubusercontent.com/81690594/130728558-8c53847e-77da-4d56-a743-e336d684bc5b.gif)
 
 <h1 align='center'>
-👽👽👽👽👽👽👽👽👽👽
+🖖👽
 </h1>
 <p align='center'>
 Me chamo Eric!
