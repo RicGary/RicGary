@@ -1,4 +1,4 @@
-<h2 align='center'> Olá e Bem Vindo! :wave:</h2>
+<h2 align='center'> Olá e Bem Vindo! <iframe src="https://giphy.com/embed/AWNxDbtHGIJDW" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-AWNxDbtHGIJDW">via GIPHY</a></p> </h2>
 
 ![Jujutsu](https://user-images.githubusercontent.com/81690594/130728558-8c53847e-77da-4d56-a743-e336d684bc5b.gif)
 
