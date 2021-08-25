@@ -1,6 +1,6 @@
 <h2 align='center'> Olá e Bem Vindo! :wave:</h2>
 
-![Jujutsu](https://user-images.githubusercontent.com/81690594/130728316-11e914c8-59c3-4729-8ce9-b87983fd8dd8.gif)
+![Jujutsu](https://user-images.githubusercontent.com/81690594/130728558-8c53847e-77da-4d56-a743-e336d684bc5b.gif)
 
 <h2 align='center'> 😎👌</h2>
 <h2 align='center'> 😉🕶️👌</h2>
