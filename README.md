@@ -6,5 +6,4 @@
   <img src="https://user-images.githubusercontent.com/81690594/130866404-40fc1d56-275a-40c5-a2a1-f184531bcf8d.gif" alt="animated" />
 </p>
 
-<p align='center'>Estudante de Engenharia Física, adoro doces, sou tímido porém dou meu melhor na socialização</p>
 <h1 align='center'><i>Tenha uma boa busca!</i></h1>
