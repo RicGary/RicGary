@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/RicGary/RicGary/assets/81690594/de25197d-d8b8-4da7-a45a-74bd2e2c24c6" alt="animated" />
-  <img src="https://github.com/RicGary/RicGary/assets/81690594/88d67c6d-d3dc-4e61-884f-08aa827eb78a"/>
+  <img src="https://github.com/RicGary/RicGary/assets/81690594/de25197d-d8b8-4da7-a45a-74bd2e2c24c6" alt="animated" />  
+  <img src="https://github.com/RicGary/RicGary/assets/81690594/f555e397-9578-41ae-b897-2b42b5d97d69"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/RicGary/RicGary/assets/81690594/40f2db0c-a234-4a12-91a7-28485786b7d3" alt="animated" />
+  <img src="https://github.com/RicGary/RicGary/assets/81690594/e9f7b22d-4d5b-4c16-8821-913158db79f4" alt="animated" />
 </p>
 
 <p align="center">
